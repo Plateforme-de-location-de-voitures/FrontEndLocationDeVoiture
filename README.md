@@ -11,12 +11,15 @@
   npm install -g @angular/cli
   
 3- Accéder au répertoire du projet 
-  avec la commande: cd frontLocationVoiture
+
+* Avec la commande: cd frontLocationVoiture
   
 4- Installer les Dépendances
-  avec la commande : npm install
+
+* Avec la commande : npm install
   
 5- Lancer le serveur de développement
-  avec la commande ng serve
-  accede avec l'url http://localhost:4200/
+
+* Avec la commande ng serve
+* Accede avec l'url http://localhost:4200/
   
