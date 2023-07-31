@@ -12,8 +12,10 @@
   
 3- Accéder au répertoire du projet 
   avec la commande: cd frontLocationVoiture
+  
 4- Installer les Dépendances
   avec la commande : npm install
+  
 5- Lancer le serveur de développement
   avec la commande ng serve
   accede avec l'url http://localhost:4200/
